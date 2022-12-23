@@ -19,8 +19,6 @@ OBJETIVOS ESPECÍFICOS
 
 Analizar los circuitos en serie y en paralelo, sus cálculos, características y funciones. Identificar que teorema podemos aplicar.
 
-Aplicar los conocimientos adquiridos de la ley de Ohm en circuitos en paralelo y en serie para la resolución de ejercicios.
-
 Analizar los distintos componentes electrmagneticos junto con la ley de Faraday
 
  Repasar los métodos aprendidos para la resolución de circuitoS
@@ -28,7 +26,17 @@ Analizar los distintos componentes electrmagneticos junto con la ley de Faraday
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/116777044/209250432-1557aa7a-dee4-42fc-bcc0-14bed5ab98d2.png)
 
+![image](https://user-images.githubusercontent.com/116777044/209250443-a051af3d-a78a-4edc-8156-d167272fb21a.png)
+
+![image](https://user-images.githubusercontent.com/116777044/209250451-9bb5ea5d-0d93-4ca7-b009-8d71656beda7.png)
+
+![image](https://user-images.githubusercontent.com/116777044/209250483-7cec203d-df0c-4105-8f8a-22b4d20078f8.png)
+
+![image](https://user-images.githubusercontent.com/116777044/209250494-4274c938-b406-4e92-b458-7738bed854f3.png)
+
+![image](https://user-images.githubusercontent.com/116777044/209250502-f9c6ae74-58ce-469a-a86c-0e3679edc1b1.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
