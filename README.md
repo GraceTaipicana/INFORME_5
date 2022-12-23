@@ -239,7 +239,7 @@ Porque  la fuerza inducida se opondra al movimiento que es hacia abajo
 
 VIDEO
 
-https://share.vidyard.com/watch/XLjthvy96icaQCfu6BtUCi ?
+https://share.vidyard.com/watch/Ak5T3DpQjVbNG2zKhJGfov?vyetoken=$token_placeholder&autoplay=1
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
